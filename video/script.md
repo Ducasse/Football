@@ -144,6 +144,13 @@ Let us look at one example....
 All the teams that got between 12 and: 15
 
 
+### Roassal is a versatile visualization engine
+
+We showed that we can develop visualize component to analyse data of the football league. 
+However Roassal has been used to visualization many data and complex projects 
+such as large software in Java, powerbuilder, C, satelite data, ….
+
+
 # CONCLUSIONS
 
 Building customised analysis tools
